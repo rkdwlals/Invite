@@ -1,0 +1,53 @@
+# Unity 자동 생성 폴더·파일
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+/.plastic/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+*.unitypackage.meta
+*.zip
+/_backup_scripts/
+/_backup_scenes/
+.claude_write_test
+
+# 외부 에셋 (README 참고)
+/Assets/Sprites/
+/Assets/Sprites.meta
+/Assets/steampunk-int/
+/Assets/steampunk-int.meta
+/Assets/palette/
+/Assets/palette.meta
+/Assets/Ethan the Hero/
+/Assets/Ethan the Hero.meta
+/Assets/LivelyNPCs_victorian_steampunk/
+/Assets/LivelyNPCs_victorian_steampunk.meta
+/Assets/craftpix-net-972811-free-steampunk-cityscape-pixel-backgrounds/
+/Assets/craftpix-net-972811-free-steampunk-cityscape-pixel-backgrounds.meta
+/Assets/GentlelandSettings/
+/Assets/GentlelandSettings.meta
+/Assets/Assets_ㅇ/Gentleland/
+/Assets/Assets_ㅇ/Gentleland.meta
+/Assets/Assets_ㅇ/GentlelandSettings/
+/Assets/Assets_ㅇ/GentlelandSettings.meta
+/Assets/Assets_ㅇ/SteamPunk Card Set/
+/Assets/Assets_ㅇ/SteamPunk Card Set.meta
+/Assets/Assets_ㅇ/Undead Survivor/
+/Assets/Assets_ㅇ/Undead Survivor.meta
+/Assets/Sounds/MP_종이 넘기는 소리 1.mp3
+/Assets/Sounds/MP_종이 넘기는 소리 1.mp3.meta
